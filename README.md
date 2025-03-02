@@ -1,4 +1,4 @@
-# Análise dos Dados dos Preços e Volume de Venda dos Abacates nos EUA
+# Análise dos Dados da Percepção dos Conteúdos no Twitter
 
 ## Sumário
 - [Objetivo](#objetivo)
