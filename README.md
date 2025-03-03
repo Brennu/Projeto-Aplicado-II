@@ -10,7 +10,7 @@
 O estudo tem como objetivo desenvolver um modelo capaz de analisar e classificar sentimentos em tweets, identificando padrões e tendências nas opiniões expressas pelos usuários. Para isso, será realizada uma investigação detalhada dos dados, incluindo a limpeza e o pré-processamento dos textos, a aplicação de algoritmos de aprendizado de máquina e a avaliação do desempenho dos modelos. Ao final, pretende-se construir uma ferramenta eficiente para prever a polaridade dos sentimentos em novas postagens no Twitter, contribuindo para uma melhor compreensão do comportamento dos usuários na plataforma.
 
 ## Dataset
-Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Dataset). Neste dataset contém dados sobre preços médios de abacates, volumes de vendas, tipos de abacate (convencional ou orgânico) em diferentes regiões dos EUA. Além de analisar o comportamento do mercado de abacates, incluindo flutuações de preços e padrões de consumo.
+Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Dataset).
 
 ## Documentação
 A documentação final do projeto aplicado está disponível na pasta [Documentação](./Documentação).
