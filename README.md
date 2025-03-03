@@ -15,7 +15,7 @@ Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Datas
 O objetivo deste dataset é permitir a análise de sentimentos em redes sociais, auxiliando na compreensão de opiniões públicas sobre marcas e eventos. Com esses dados, é possível explorar padrões de linguagem, tendências de sentimentos e a relevância de determinados temas em discussões online.
 
 ## Documentação
-A documentação final do projeto aplicado está disponível na pasta [Documentação](./Documentação).
+A documentação do projeto aplicado II está disponível na pasta [Documentação](./Documentação).
 
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
