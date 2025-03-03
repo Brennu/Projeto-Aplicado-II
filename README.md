@@ -7,7 +7,7 @@
 - [Membros do Grupo](#membros-do-grupo)
 
 ## Objetivo
-O estudo sobre o dataset "Avocado Prices" analisa a variação dos preços de abacates nos EUA entre 2015 e 2018, identificando fatores como regiões geográficas, tipos de abacate (convencional ou orgânico) e períodos de tempo. Também explora eventos como a crise de 2017, quando a alta demanda e baixa oferta aumentaram os preços. O objetivo é criar modelos para prever tendências futuras e entender o comportamento do mercado, incluindo a demanda por abacates orgânicos e o impacto de embalagens nas vendas. O estudo visa oferecer subsídios para decisões estratégicas na indústria de abacates.
+O estudo tem como objetivo desenvolver um modelo capaz de analisar e classificar sentimentos em tweets, identificando padrões e tendências nas opiniões expressas pelos usuários. Para isso, será realizada uma investigação detalhada dos dados, incluindo a limpeza e o pré-processamento dos textos, a aplicação de algoritmos de aprendizado de máquina e a avaliação do desempenho dos modelos. Ao final, pretende-se construir uma ferramenta eficiente para prever a polaridade dos sentimentos em novas postagens no Twitter, contribuindo para uma melhor compreensão do comportamento dos usuários na plataforma.
 
 ## Dataset
 Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Dataset). Neste dataset contém dados sobre preços médios de abacates, volumes de vendas, tipos de abacate (convencional ou orgânico) em diferentes regiões dos EUA. Além de analisar o comportamento do mercado de abacates, incluindo flutuações de preços e padrões de consumo.
