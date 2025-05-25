@@ -5,6 +5,7 @@
 - [Dataset](#dataset)
 - [Script](#script)
 - [Documentação](#Documentação)
+- [Link da Apresentação](#Link-da-Apresentação)
 - [Membros do Grupo](#membros-do-grupo)
 
 ## Objetivo
@@ -20,6 +21,9 @@ O script utilizado para compor a Análise Exploratória, Preparação e Treiname
 
 ## Documentação
 A documentação do projeto aplicado II está disponível na pasta [Documentação](./Documentação).
+
+## Link da Apresentação
+Link de acesso para a apresentação do projeto:
 
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
