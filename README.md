@@ -24,6 +24,7 @@ A documentação do projeto aplicado II está disponível na pasta [Documentaç�
 
 ## Link da Apresentação
 Link de acesso para a apresentação do projeto:
+https://www.youtube.com/watch?v=b_ih3C5Gbhs
 
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
